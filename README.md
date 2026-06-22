@@ -26,11 +26,9 @@ Proyek ini bertujuan untuk menganalisis sentimen ulasan pengguna game eFootball 
 Model berhasil digunakan untuk mengklasifikasikan sentimen ulasan pengguna ke dalam kategori sentimen tertentu berdasarkan hasil preprocessing dan proses pelatihan model.
 
 ## Struktur Proyek
-├── dataset/
-├── notebook/
-├── model/
-├── output/
-└── README.md
+├── dataset/   
+├── notebook/   
+├── model/   
+├── output/   
+└── README.md  
 
-## Author
-Muhamad Fadhil Najib
